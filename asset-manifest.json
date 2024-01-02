@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/desarrollo-visible-public/static/css/main.6e1ebf00.css",
-    "main.js": "/desarrollo-visible-public/static/js/main.17cc122b.js",
+    "main.js": "/desarrollo-visible-public/static/js/main.c4419c33.js",
     "static/js/787.c6006e9a.chunk.js": "/desarrollo-visible-public/static/js/787.c6006e9a.chunk.js",
     "static/media/snowy-mountains.jpg": "/desarrollo-visible-public/static/media/snowy-mountains.653392d5be5ba023bade.jpg",
     "static/media/logo.png": "/desarrollo-visible-public/static/media/logo.1735a92982de51bf0b3d.png",
@@ -15,11 +15,11 @@
     "static/media/logo.svg": "/desarrollo-visible-public/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/desarrollo-visible-public/index.html",
     "main.6e1ebf00.css.map": "/desarrollo-visible-public/static/css/main.6e1ebf00.css.map",
-    "main.17cc122b.js.map": "/desarrollo-visible-public/static/js/main.17cc122b.js.map",
+    "main.c4419c33.js.map": "/desarrollo-visible-public/static/js/main.c4419c33.js.map",
     "787.c6006e9a.chunk.js.map": "/desarrollo-visible-public/static/js/787.c6006e9a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6e1ebf00.css",
-    "static/js/main.17cc122b.js"
+    "static/js/main.c4419c33.js"
   ]
 }
